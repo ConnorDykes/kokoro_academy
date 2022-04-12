@@ -39,7 +39,19 @@ dependencies:
   webview_flutter: ^3.0.2
   cloud_firestore: ^3.1.11
   firebase_core: ^1.14.0
+  flutter_launcher_icons: ^0.9.2
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path_ios: "assets/appstore.png"
+  remove_alpha_ios: true
+  image_path_android: "assets/playstore.png"
+  # run ( flutter pub run flutter_launcher_icons:main ) to update icon
+  # generated round launcher icon for android from https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=image&foreground.space.trim=1&foreground.space.pad=0&foreColor=rgba(96%2C%20125%2C%20139%2C%200)&backColor=rgb(68%2C%20138%2C%20255)&crop=0&backgroundShape=circle&effects=none&name=ic_launcher
 
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
 
 dev_dependencies:
 
