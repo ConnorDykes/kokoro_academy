@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "222493994180",
+    "project_id": "kokoro-academy",
+    "storage_bucket": "kokoro-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222493994180:android:8bfa6d8cdde2c805442d91",
+        "android_client_info": {
+          "package_name": "com.kokoro_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222493994180-sat4nmmk4cs6rjo1bae5ol18a9c92jbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD99sZIVEPKQv4u1u-Lv_CSwiA6p4D4dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222493994180-sat4nmmk4cs6rjo1bae5ol18a9c92jbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222493994180-4c9pa0gtpm3iv95pbu5u8tieprusi8mk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kokoroacademy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
